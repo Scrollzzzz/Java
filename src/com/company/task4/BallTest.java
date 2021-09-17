@@ -1,4 +1,4 @@
-package com.company.pr2;
+package com.company.task4;
 
 public class BallTest {
     public static void main(String[] args){

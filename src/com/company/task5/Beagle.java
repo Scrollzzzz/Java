@@ -1,4 +1,4 @@
-package com.company.lab3;
+package com.company.task5;
 
 public class Beagle extends Dog {
 

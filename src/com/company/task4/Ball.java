@@ -1,4 +1,4 @@
-package com.company.pr2;
+package com.company.task4;
 
 public class Ball {
     private double x;

@@ -1,4 +1,4 @@
-package com.company.pr1;
+package com.company.task2;
 
 public class BookTest {
     public static void main(String[] args){

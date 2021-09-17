@@ -1,4 +1,4 @@
-package com.company.pr3;
+package com.company.task7;
 
 public class MovablePoint implements Movable {
     int x;

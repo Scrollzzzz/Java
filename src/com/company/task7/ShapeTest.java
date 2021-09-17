@@ -1,4 +1,4 @@
-package com.company.pr3;
+package com.company.task7;
 
 public class ShapeTest {
     public static void main(String[] args){
