@@ -1,7 +1,5 @@
 package com.company.lab3;
 
-import com.company.lab3.Dog;
-
 public class Corgi extends Dog {
 
     public Corgi(String name, int age) {
