@@ -8,4 +8,3 @@ public class BallTest {
         System.out.println(ball);
     }
 }
-
