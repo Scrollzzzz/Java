@@ -79,6 +79,4 @@ public class Main {
             five(n%(int)(Math.pow(10, (int)Math.log10(n))));
         }
     }
-
-
 }
