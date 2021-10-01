@@ -3,28 +3,32 @@ package com.company.task6;
 public class Animal implements Nameable {
     String name;
     String kind;
-    double weight;
+    int age;
 
-    Animal(String name, String kind, double weight){
+    Animal(String name, String kind, int age){
         this.name = name;
         this.kind = kind;
-        this.weight = weight;
+        this.age = age;
     }
 
-    public void setRadius(String kind) {
+    public void setKind(String kind) {
         this.kind = kind;
     }
 
-    public void setWeight(double weight) {
-        this.weight = weight;
+    public void setAge(int age) {
+        this.age = age;
     }
 
-    public String getRadius() {
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getKind() {
         return kind;
     }
 
-    public double getWeight() {
-        return weight;
+    public int getAge() {
+        return age;
     }
 
     @Override
