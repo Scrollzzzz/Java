@@ -1,10 +1,9 @@
 package com.company.task5;
 
-public abstract class Dish {
-
+public abstract class Furniture {
     private String type;
 
-    Dish(String type){
+    Furniture(String type){
         this.type = type;
     }
 
@@ -16,5 +15,5 @@ public abstract class Dish {
         return type;
     }
 
-    public abstract void getForm();
+    public abstract void room();
 }
