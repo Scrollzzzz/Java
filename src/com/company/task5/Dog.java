@@ -28,4 +28,6 @@ public abstract class Dog {
     public void walk(){
         System.out.println("Dog is walking");
     }
+
+    public abstract void getBreed();
 }
