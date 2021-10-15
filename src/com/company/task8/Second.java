@@ -9,6 +9,7 @@ public class Second {
         jLabel.setIcon(icon);
 
         JFrame frame  = new JFrame();
+        frame.setTitle("Task 8 : Second");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(660, 710);
         frame.setVisible(true);

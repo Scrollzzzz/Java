@@ -2,12 +2,11 @@ package com.company.task9;
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 
 public class Main {
     public static void main(String[] args) {
         JFrame frame = new JFrame();
+        frame.setTitle("Task 9");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         SpringLayout layout = new SpringLayout();
         Container contentPane = frame.getContentPane();

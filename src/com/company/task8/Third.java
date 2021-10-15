@@ -9,6 +9,7 @@ public class Third {
         jLabel.setIcon(icon);
 
         JFrame frame  = new JFrame();
+        frame.setTitle("Task 8 : Third");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(320, 243);
         frame.setVisible(true);
