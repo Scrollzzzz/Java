@@ -4,10 +4,10 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        //System.out.println(ten(123456789));
-        //System.out.println(eleven());
-        //twelve();
-        //thirteen();
+        System.out.println(one(123456789));
+        System.out.println(two());
+        three();
+        four();
         five(12345);
     }
 
