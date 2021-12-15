@@ -37,7 +37,7 @@ public class RegexTest {
             builder.append(" : test failed : ");
             if (e != null) {
                 builder.append(e);
-                builder.append('\n');
+                builder.append("  ");
             }
         }
 
@@ -46,7 +46,7 @@ public class RegexTest {
             if (description != null) {
                 builder.append(description);
             }
-            builder.append(" : test passed\n");
+            builder.append(" : test passed  ");
         }
     };
 
