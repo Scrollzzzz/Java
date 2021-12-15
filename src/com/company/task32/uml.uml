@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.company.task1.Main</OriginalElement>
+  <nodes>
+    <node x="1469.0370046620046" y="4311.296539413831">com.company.task7.Circle</node>
+    <node x="2559.36790003628" y="4265.296539413831">com.company.task8.Circle</node>
+    <node x="3296.145356256269" y="5683.0">com.company.task14.InteractiveGame</node>
+    <node x="1533.3054043117027" y="3304.2911268497724">com.company.task3.BookTest</node>
+    <node x="794.8155080213901" y="5419.772727272727">com.company.task12.Second</node>
+    <node x="2703.645356256269" y="4416.251084868376">com.company.task11.Second</node>
+    <node x="2897.645356256269" y="4416.251084868376">com.company.task11.Third</node>
+    <node x="2882.770356256269" y="6630.354455888937">com.company.task22.Client</node>
+    <node x="401.81024455814895" y="3040.2911268497724">com.company.task2.Ball</node>
+    <node x="3687.6895754559696" y="3344.2911268497733">com.company.task5.Beagle</node>
+    <node x="4079.5917865917845" y="5199.840274193217">com.company.task15.Main</node>
+    <node x="874.5454545454538" y="6344.354455888937">com.company.task19.RightTriangle</node>
+    <node x="4087.729717626267" y="6240.354455888937">com.company.task24.Regex</node>
+    <node x="2504.566617984998" y="4395.296539413831">com.company.task8.Panel</node>
+    <node x="619.9051222790745" y="3040.2911268497724">com.company.task2.Book</node>
+    <node x="850.0" y="3304.2911268497724">com.company.task2.ShapeTest</node>
+    <node x="3546.1895754559696" y="4001.296539413831">com.company.task27.Main</node>
+    <node x="1520.3054043117027" y="3040.2911268497724">com.company.task3.Book</node>
+    <node x="1201.31987983281" y="7191.318181818178">com.company.task26.OnlineWallet</node>
+    <node x="1471.0370046620044" y="5199.772727272727">com.company.task13.MyCollection</node>
+    <node x="1483.0370046620044" y="5525.772727272727">com.company.task13.Main</node>
+    <node x="1809.0954054008616" y="6960.499999999999">com.company.task27.City</node>
+    <node x="405.34090909090924" y="7067.136363636361">com.company.task25.Circle</node>
+    <node x="3531.1895754559696" y="3102.291126849773">com.company.task5.Dog</node>
+    <node x="1778.9140442890443" y="4209.296539413831">com.company.task7.Movable</node>
+    <node x="1008.6891327063734" y="7061.318181818178">com.company.task26.CreditPayStrategy</node>
+    <node x="2718.145356256269" y="5199.772727272727">com.company.task14.Game</node>
+    <node x="12.090909090909236" y="7199.136363636361">com.company.task25.RedShapeDecorator</node>
+    <node x="2029.6511570042298" y="3292.2911268497724">com.company.task3.Human</node>
+    <node x="2004.1641778375633" y="3646.2911268497724">com.company.task3.HumanTest</node>
+    <node x="1734.6032806579663" y="3040.2911268497724">com.company.task3.CircleFirst</node>
+    <node x="99.84090909090969" y="6961.136363636361">com.company.task25.Shape</node>
+    <node x="480.73458725182786" y="6240.354455888937">com.company.task20.Main</node>
+    <node x="2435.145356256269" y="5705.0">com.company.task14.StackGame</node>
+    <node x="2085.90115700423" y="3051.2911268497724">com.company.task3.Human.Head</node>
+    <node x="988.5785005224652" y="7297.318181818178">com.company.task26.Main</node>
+    <node x="1198.6891327063734" y="7061.318181818178">com.company.task26.OnlinePayStrategy</node>
+    <node x="3559.9090909090905" y="6240.354455888937">com.company.task23.Hash</node>
+    <node x="1.7061092877295323" y="4105.296539413831">com.company.task6.Animal</node>
+    <node x="2722.145356256269" y="5705.0">com.company.task14.DoubleList</node>
+    <node x="2569.145356256269" y="6960.499999999999">com.company.task28.Car</node>
+    <node x="718.3155080213901" y="5199.772727272727">com.company.task12.Student</node>
+    <node x="2270.90115700423" y="3051.2911268497724">com.company.task3.Human.Hands</node>
+    <node x="632.9051222790745" y="3304.2911268497724">com.company.task2.BookTest</node>
+    <node x="2883.5771744380877" y="6240.354455888937">com.company.task22.Chair</node>
+    <node x="2435.145356256269" y="6357.354455888937">com.company.task22.MultifunctionalChair</node>
+    <node x="1054.0948777209255" y="3040.2911268497724">com.company.task2.Dog</node>
+    <node x="4115.689575455969" y="3216.291126849773">com.company.task5.Bed</node>
+    <node x="881.0454545454538" y="6240.354455888937">com.company.task19.InvalidSidesException</node>
+    <node x="1417.15909090909" y="6240.354455888937">com.company.task9.Main</node>
+    <node x="1897.2727272727266" y="6240.354455888937">com.company.task21.Generic</node>
+    <node x="1809.0954054008616" y="7058.681818181816">com.company.task11.Main</node>
+    <node x="59.86174242424272" y="7351.136363636361">com.company.task25.DecoratorPatternDemo</node>
+    <node x="0.5454545454547315" y="6240.354455888937">com.company.task17.Menu.Planet</node>
+    <node x="1742.6032806579663" y="3236.2911268497724">com.company.task3.CircleTest</node>
+    <node x="129.20610928772953" y="4345.296539413831">com.company.task6.TestName</node>
+    <node x="655.7061092877295" y="4105.296539413831">com.company.task6.Furniture</node>
+    <node x="207.70610928772953" y="4105.296539413831">com.company.task6.Planet</node>
+    <node x="2728.145356256269" y="6500.354455888937">com.company.task22.ChairFactory</node>
+    <node x="2640.4952710527377" y="3040.2911268497724">com.company.task4.Author</node>
+    <node x="625.8155080213901" y="5419.772727272727">com.company.task12.First</node>
+    <node x="909.0454545454538" y="6472.354455888937">com.company.task19.Main</node>
+    <node x="3527.6895754559696" y="3344.2911268497733">com.company.task5.Corgi</node>
+    <node x="0.5454545454547315" y="6390.354455888937">com.company.task17.Menu</node>
+    <node x="1260.5370046620046" y="4601.296539413831">com.company.task7.Square</node>
+    <node x="437.70610928772953" y="4105.296539413831">com.company.task6.Book</node>
+    <node x="1171.0370046620046" y="4289.296539413831">com.company.task7.Rectangle</node>
+    <node x="2504.2332846516647" y="4001.296539413831">com.company.task8.Shape</node>
+    <node x="3009.145356256269" y="5694.0">com.company.task14.QueueGame</node>
+    <node x="874.5454545454538" y="6957.318181818178">com.company.task26.PayStrategy</node>
+    <node x="4078.6895754559696" y="4001.296539413831">com.company.task10.Main</node>
+    <node x="0.5454545454547315" y="5200.181818181817">com.company.task18.Main</node>
+    <node x="2889.3964280569676" y="3326.2911268497724">com.company.task4.BallTest</node>
+    <node x="1835.0807109557113" y="4620.296539413831">com.company.task7.MovableRectangle</node>
+    <node x="2738.36790003628" y="4265.296539413831">com.company.task8.Triangle</node>
+    <node x="0.5454545454547315" y="5307.454545454544">com.company.task8.Second</node>
+    <node x="143.20610928772953" y="4001.296539413831">com.company.task6.Nameable</node>
+    <node x="820.0" y="3040.2911268497724">com.company.task2.Shape</node>
+    <node x="2929.36790003628" y="4265.296539413831">com.company.task8.Rectangle</node>
+    <node x="589.2061092877295" y="4001.296539413831">com.company.task6.Priceable</node>
+    <node x="2510.066617984998" y="4567.296539413831">com.company.task8.Main</node>
+    <node x="3359.689575455969" y="3344.2911268497733">com.company.task5.Poodle</node>
+    <node x="1034.503787878787" y="7191.318181818178">com.company.task26.CreditCard</node>
+    <node x="267.34090909090924" y="7067.136363636361">com.company.task25.Rectangle</node>
+    <node x="879.6891327063734" y="7061.318181818178">com.company.task26.Payment</node>
+    <node x="1.7061092877295323" y="3040.2911268497724">com.company.task1.Main</node>
+    <node x="2148.145356256269" y="5705.0">com.company.task14.DequeGame</node>
+    <node x="1197.6798618048617" y="4799.296539413831">com.company.task7.ShapeTest</node>
+    <node x="0.5454545454547315" y="5414.727272727272">com.company.task8.Third</node>
+    <node x="2954.145356256269" y="6346.354455888937">com.company.task22.ChairType</node>
+    <node x="71.34090909090924" y="7067.136363636361">com.company.task25.ShapeDecorator</node>
+    <node x="2662.9952710527377" y="3304.2911268497724">com.company.task4.TestAuthor</node>
+    <node x="2591.145356256269" y="7130.499999999999">com.company.task28.Car.Engine</node>
+    <node x="3835.6895754559696" y="3216.291126849773">com.company.task5.Glass</node>
+    <node x="2867.3964280569676" y="3040.2911268497724">com.company.task4.Ball</node>
+    <node x="3761.6895754559696" y="3040.2911268497724">com.company.task5.Dish</node>
+    <node x="3322.9999999999986" y="6960.499999999999">com.company.task29.CurrencyInfo</node>
+    <node x="4096.729717626267" y="6960.499999999999">com.company.task30.RegexTest</node>
+    <node x="1036.5948777209255" y="3326.2911268497724">com.company.task2.DogTest</node>
+    <node x="4036.189575455969" y="3040.2911268497724">com.company.task5.Furniture</node>
+    <node x="1938.9011570042298" y="3040.2911268497724">com.company.task3.Human.Legs</node>
+    <node x="3983.689575455969" y="3216.291126849773">com.company.task5.Tub</node>
+    <node x="2806.145356256269" y="6357.354455888937">com.company.task22.MagicChair</node>
+    <node x="1605.0807109557113" y="4609.296539413831">com.company.task7.MovableCircle</node>
+    <node x="1737.6140442890442" y="4381.296539413831">com.company.task7.MovablePoint</node>
+    <node x="423.81024455814895" y="3326.2911268497724">com.company.task2.BallTest</node>
+    <node x="1277.1798618048617" y="4001.296539413831">com.company.task7.Shape</node>
+    <node x="2641.145356256269" y="6357.354455888937">com.company.task22.VictorianChair</node>
+    <node x="3687.6895754559696" y="3216.291126849773">com.company.task5.Plate</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.company.task3.HumanTest" target="com.company.task3.Human" relationship="CREATE">
+      <point x="37.25" y="-39.0" />
+      <point x="2115.9141778375633" y="3625.2911268497724" />
+      <point x="2169.65115700423" y="3625.2911268497724" />
+      <point x="0.0" y="151.0" />
+    </edge>
+    <edge source="com.company.task8.Panel" target="com.company.task8.Circle" relationship="CREATE">
+      <point x="53.333333333333485" y="-61.0" />
+      <point x="2637.8999513183317" y="4374.296539413831" />
+      <point x="2826.3037974721774" y="4374.296539413831" />
+      <point x="2826.3037974721774" y="4364.296539413831" />
+      <point x="2638.86790003628" y="4364.296539413831" />
+      <point x="0.0" y="39.0" />
+    </edge>
+    <edge source="com.company.task13.Main" target="com.company.task13.MyCollection" relationship="CREATE">
+      <point x="0.0" y="-61.0" />
+      <point x="0.0" y="138.0" />
+    </edge>
+    <edge source="com.company.task19.RightTriangle" target="com.company.task19.InvalidSidesException" relationship="CREATE">
+      <point x="0.0" y="-39.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="com.company.task3.Human" target="com.company.task3.Human.Legs" relationship="TO_ONE">
+      <point x="0.0" y="-151.0" />
+      <point x="2169.65115700423" y="3271.2911268497724" />
+      <point x="2174.0391778375633" y="3271.2911268497724" />
+      <point x="2174.0391778375633" y="3241.2911268497724" />
+      <point x="2018.2761570042298" y="3241.2911268497724" />
+      <point x="15.875" y="85.0" />
+    </edge>
+    <edge source="com.company.task26.Main" target="com.company.task26.CreditCard" relationship="CREATE">
+      <point x="37.25" y="-39.0" />
+      <point x="1100.3285005224652" y="7276.318181818178" />
+      <point x="1171.8285005224652" y="7276.318181818178" />
+      <point x="1171.8285005224652" y="7266.318181818178" />
+      <point x="1096.003787878787" y="7266.318181818178" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="com.company.task26.CreditPayStrategy" target="com.company.task26.PayStrategy" relationship="REALIZATION">
+      <point x="0.0" y="-39.0" />
+      <point x="1093.6891327063734" y="7041.318181818178" />
+      <point x="1173.7035005224652" y="7041.318181818178" />
+      <point x="1173.7035005224652" y="7031.318181818178" />
+      <point x="982.8787878787872" y="7031.318181818178" />
+      <point x="43.33333333333337" y="27.0" />
+    </edge>
+    <edge source="com.company.task28.Car.Engine" target="com.company.task28.Car" relationship="INNER_CLASS">
+      <point x="49.0" y="-27.0" />
+      <point x="2713.645356256269" y="7105.499999999999" />
+      <point x="2728.312022922936" y="7105.499999999999" />
+      <point x="63.66666666666674" y="50.0" />
+    </edge>
+    <edge source="com.company.task6.TestName" target="com.company.task6.Planet" relationship="CREATE">
+      <point x="0.0" y="-39.0" />
+      <point x="203.70610928772953" y="4320.296539413831" />
+      <point x="312.70610928772953" y="4320.296539413831" />
+      <point x="0.0" y="95.0" />
+    </edge>
+    <edge source="com.company.task6.Book" target="com.company.task6.Priceable" relationship="REALIZATION">
+      <point x="0.0" y="-95.0" />
+      <point x="536.7061092877295" y="4080.296539413831" />
+      <point x="646.7061092877295" y="4080.296539413831" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="com.company.task2.BallTest" target="com.company.task2.Ball" relationship="CREATE">
+      <point x="0.0" y="-39.0" />
+      <point x="0.0" y="118.0" />
+    </edge>
+    <edge source="com.company.task8.Triangle" target="com.company.task8.Shape" relationship="GENERALIZATION">
+      <point x="0.0" y="-39.0" />
+      <point x="2823.86790003628" y="4244.296539413831" />
+      <point x="2799.765335933716" y="4244.296539413831" />
+      <point x="2799.765335933716" y="4234.296539413831" />
+      <point x="2638.399951318331" y="4234.296539413831" />
+      <point x="53.66666666666663" y="106.0" />
+    </edge>
+    <edge source="com.company.task3.Human.Hands" target="com.company.task3.Human" relationship="INNER_CLASS">
+      <point x="-49.125" y="74.0" />
+      <point x="2287.27615700423" y="3251.2911268497724" />
+      <point x="2088.6641778375633" y="3251.2911268497724" />
+      <point x="2088.6641778375633" y="3271.2911268497724" />
+      <point x="2076.3178236708964" y="3271.2911268497724" />
+      <point x="-93.33333333333348" y="-151.0" />
+    </edge>
+    <edge source="com.company.task2.BookTest" target="com.company.task2.Book" relationship="CREATE">
+      <point x="0.0" y="-39.0" />
+      <point x="0.0" y="107.0" />
+    </edge>
+    <edge source="com.company.task6.Furniture" target="com.company.task6.Priceable" relationship="REALIZATION">
+      <point x="0.0" y="-95.0" />
+      <point x="756.7061092877295" y="4080.296539413831" />
+      <point x="646.7061092877295" y="4080.296539413831" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="com.company.task7.MovableCircle" target="com.company.task7.Movable" relationship="REALIZATION">
+      <point x="-70.0" y="-83.0" />
+      <point x="1640.0807109557113" y="4588.296539413831" />
+      <point x="1699.8307109557113" y="4588.296539413831" />
+      <point x="1699.8307109557113" y="4355.296539413831" />
+      <point x="1850.9140442890443" y="4355.296539413831" />
+      <point x="0.0" y="60.0" />
+    </edge>
+    <edge source="com.company.task17.Menu.Planet" target="com.company.task17.Menu" relationship="INNER_CLASS">
+      <point x="-43.25" y="50.0" />
+      <point x="-43.25" y="-61.0" />
+    </edge>
+    <edge source="com.company.task5.Bed" target="com.company.task5.Furniture" relationship="GENERALIZATION">
+      <point x="0.0" y="-39.0" />
+      <point x="4171.689575455969" y="3191.291126849773" />
+      <point x="4105.689575455969" y="3191.291126849773" />
+      <point x="0.0" y="63.0" />
+    </edge>
+    <edge source="com.company.task14.QueueGame" target="com.company.task14.Game" relationship="GENERALIZATION">
+      <point x="0.0" y="-117.0" />
+      <point x="3142.645356256269" y="5658.0" />
+      <point x="2855.645356256269" y="5658.0" />
+      <point x="0.0" y="216.0" />
+    </edge>
+    <edge source="com.company.task22.ChairFactory" target="com.company.task22.Chair" relationship="DEPENDENCY">
+      <point x="50.25" y="-39.0" />
+      <point x="2878.895356256269" y="6478.354455888937" />
+      <point x="2943.645356256269" y="6478.354455888937" />
+      <point x="2943.645356256269" y="6325.354455888937" />
+      <point x="3055.5771744380877" y="6325.354455888937" />
+      <point x="3055.5771744380877" y="6315.354455888937" />
+      <point x="2969.0771744380877" y="6315.354455888937" />
+      <point x="28.5" y="27.0" />
+    </edge>
+    <edge source="com.company.task3.HumanTest" target="com.company.task3.Human.Hands" relationship="DEPENDENCY">
+      <point x="-37.25" y="-39.0" />
+      <point x="2041.4141778375633" y="3625.2911268497724" />
+      <point x="2012.6928236708968" y="3625.2911268497724" />
+      <point x="2012.6928236708968" y="3615.2911268497724" />
+      <point x="2393.65115700423" y="3615.2911268497724" />
+      <point x="2393.65115700423" y="3271.2911268497724" />
+      <point x="2385.52615700423" y="3271.2911268497724" />
+      <point x="49.125" y="74.0" />
+    </edge>
+    <edge source="com.company.task7.MovableRectangle" target="com.company.task7.MovablePoint" relationship="CREATE">
+      <point x="0.0" y="-72.0" />
+      <point x="1971.0807109557113" y="4578.296539413831" />
+      <point x="1925.1890442890444" y="4578.296539413831" />
+      <point x="1925.1890442890444" y="4568.296539413831" />
+      <point x="1893.6140442890442" y="4568.296539413831" />
+      <point x="52.0" y="83.0" />
+    </edge>
+    <edge source="com.company.task26.OnlinePayStrategy" target="com.company.task26.PayStrategy" relationship="REALIZATION">
+      <point x="0.0" y="-39.0" />
+      <point x="1285.1891327063734" y="7041.318181818178" />
+      <point x="1173.7035005224652" y="7041.318181818178" />
+      <point x="1173.7035005224652" y="7031.318181818178" />
+      <point x="982.8787878787872" y="7031.318181818178" />
+      <point x="43.33333333333337" y="27.0" />
+    </edge>
+    <edge source="com.company.task26.CreditCard" target="com.company.task26.CreditPayStrategy" relationship="CREATE">
+      <point x="-30.75" y="-27.0" />
+      <point x="1065.253787878787" y="7170.318181818178" />
+      <point x="1093.6891327063734" y="7170.318181818178" />
+      <point x="0.0" y="39.0" />
+    </edge>
+    <edge source="com.company.task25.RedShapeDecorator" target="com.company.task25.ShapeDecorator" relationship="GENERALIZATION">
+      <point x="49.0" y="-50.0" />
+      <point x="0.0" y="39.0" />
+    </edge>
+    <edge source="com.company.task25.DecoratorPatternDemo" target="com.company.task25.Circle" relationship="CREATE">
+      <point x="51.75" y="-39.0" />
+      <point x="215.11174242424272" y="7330.136363636361" />
+      <point x="325.86174242424227" y="7330.136363636361" />
+      <point x="325.86174242424227" y="7320.136363636361" />
+      <point x="459.84090909090924" y="7320.136363636361" />
+      <point x="0.0" y="39.0" />
+    </edge>
+    <edge source="com.company.task3.CircleTest" target="com.company.task3.CircleFirst" relationship="CREATE">
+      <point x="0.0" y="-39.0" />
+      <point x="0.0" y="73.0" />
+    </edge>
+    <edge source="com.company.task8.Panel" target="com.company.task8.Rectangle" relationship="CREATE">
+      <point x="53.333333333333485" y="-61.0" />
+      <point x="2637.8999513183317" y="4374.296539413831" />
+      <point x="2826.3037974721774" y="4374.296539413831" />
+      <point x="2826.3037974721774" y="4364.296539413831" />
+      <point x="3019.86790003628" y="4364.296539413831" />
+      <point x="0.0" y="39.0" />
+    </edge>
+    <edge source="com.company.task22.ChairFactory" target="com.company.task22.ChairType" relationship="DEPENDENCY">
+      <point x="50.25" y="-39.0" />
+      <point x="2878.895356256269" y="6478.354455888937" />
+      <point x="2943.645356256269" y="6478.354455888937" />
+      <point x="2943.645356256269" y="6468.354455888937" />
+      <point x="3047.145356256269" y="6468.354455888937" />
+      <point x="0.0" y="50.0" />
+    </edge>
+    <edge source="com.company.task25.DecoratorPatternDemo" target="com.company.task25.Rectangle" relationship="CREATE">
+      <point x="51.75" y="-39.0" />
+      <point x="215.11174242424272" y="7330.136363636361" />
+      <point x="326.34090909090924" y="7330.136363636361" />
+      <point x="0.0" y="39.0" />
+    </edge>
+    <edge source="com.company.task22.ChairFactory" target="com.company.task22.MagicChair" relationship="CREATE">
+      <point x="-50.25" y="-39.0" />
+      <point x="2778.395356256269" y="6478.354455888937" />
+      <point x="2713.645356256269" y="6478.354455888937" />
+      <point x="2713.645356256269" y="6468.354455888937" />
+      <point x="2869.645356256269" y="6468.354455888937" />
+      <point x="0.0" y="39.0" />
+    </edge>
+    <edge source="com.company.task3.Human" target="com.company.task3.Human.Head" relationship="TO_ONE">
+      <point x="0.0" y="-151.0" />
+      <point x="2169.65115700423" y="3271.2911268497724" />
+      <point x="2174.0391778375633" y="3271.2911268497724" />
+      <point x="2174.0391778375633" y="3241.2911268497724" />
+      <point x="2189.02615700423" y="3241.2911268497724" />
+      <point x="20.625" y="74.0" />
+    </edge>
+    <edge source="com.company.task7.ShapeTest" target="com.company.task7.Circle" relationship="CREATE">
+      <point x="37.25" y="-39.0" />
+      <point x="1309.4298618048617" y="4778.296539413831" />
+      <point x="1370.0370046620046" y="4778.296539413831" />
+      <point x="1370.0370046620046" y="4768.296539413831" />
+      <point x="1575.5370046620046" y="4768.296539413831" />
+      <point x="0.0" y="107.0" />
+    </edge>
+    <edge source="com.company.task14.DequeGame" target="com.company.task14.Game" relationship="GENERALIZATION">
+      <point x="0.0" y="-106.0" />
+      <point x="2281.645356256269" y="5658.0" />
+      <point x="2855.645356256269" y="5658.0" />
+      <point x="0.0" y="216.0" />
+    </edge>
+    <edge source="com.company.task7.ShapeTest" target="com.company.task7.Rectangle" relationship="CREATE">
+      <point x="37.25" y="-39.0" />
+      <point x="1309.4298618048617" y="4778.296539413831" />
+      <point x="1370.0370046620046" y="4778.296539413831" />
+      <point x="1370.0370046620046" y="4768.296539413831" />
+      <point x="1250.0370046620046" y="4768.296539413831" />
+      <point x="1250.0370046620046" y="4574.296539413831" />
+      <point x="1240.5370046620046" y="4574.296539413831" />
+      <point x="-69.5" y="129.0" />
+    </edge>
+    <edge source="com.company.task22.MagicChair" target="com.company.task22.Chair" relationship="REALIZATION">
+      <point x="0.0" y="-39.0" />
+      <point x="2869.645356256269" y="6325.354455888937" />
+      <point x="2722.0771744380877" y="6325.354455888937" />
+      <point x="2722.0771744380877" y="6315.354455888937" />
+      <point x="2912.0771744380877" y="6315.354455888937" />
+      <point x="-28.5" y="27.0" />
+    </edge>
+    <edge source="com.company.task22.ChairFactory" target="com.company.task22.VictorianChair" relationship="CREATE">
+      <point x="-50.25" y="-39.0" />
+      <point x="2778.395356256269" y="6478.354455888937" />
+      <point x="2713.645356256269" y="6478.354455888937" />
+      <point x="0.0" y="39.0" />
+    </edge>
+    <edge source="com.company.task7.Square" target="com.company.task7.Rectangle" relationship="GENERALIZATION">
+      <point x="0.0" y="-73.0" />
+      <point x="1370.0370046620046" y="4574.296539413831" />
+      <point x="1379.5370046620046" y="4574.296539413831" />
+      <point x="69.5" y="129.0" />
+    </edge>
+    <edge source="com.company.task3.BookTest" target="com.company.task3.Book" relationship="CREATE">
+      <point x="0.0" y="-39.0" />
+      <point x="0.0" y="107.0" />
+    </edge>
+    <edge source="com.company.task30.RegexTest" target="com.company.task24.Regex" relationship="TO_ONE">
+      <point x="-33.5" y="-83.0" />
+      <point x="4130.229717626267" y="6382.772727272727" />
+      <point x="4125.729717626267" y="6382.772727272727" />
+      <point x="-38.0" y="50.0" />
+    </edge>
+    <edge source="com.company.task26.Payment" target="com.company.task26.PayStrategy" relationship="TO_ONE">
+      <point x="27.25" y="-39.0" />
+      <point x="961.4391327063734" y="7041.318181818178" />
+      <point x="939.5454545454538" y="7041.318181818178" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="com.company.task17.Menu" target="com.company.task17.Menu.Planet" relationship="DEPENDENCY">
+      <point x="43.25" y="-61.0" />
+      <point x="43.25" y="50.0" />
+    </edge>
+    <edge source="com.company.task7.ShapeTest" target="com.company.task7.Square" relationship="CREATE">
+      <point x="37.25" y="-39.0" />
+      <point x="1309.4298618048617" y="4778.296539413831" />
+      <point x="1370.0370046620046" y="4778.296539413831" />
+      <point x="0.0" y="73.0" />
+    </edge>
+    <edge source="com.company.task26.OnlineWallet" target="com.company.task26.OnlinePayStrategy" relationship="CREATE">
+      <point x="34.5" y="-27.0" />
+      <point x="1304.81987983281" y="7170.318181818178" />
+      <point x="1285.1891327063734" y="7170.318181818178" />
+      <point x="0.0" y="39.0" />
+    </edge>
+    <edge source="com.company.task2.DogTest" target="com.company.task2.Dog" relationship="CREATE">
+      <point x="0.0" y="-50.0" />
+      <point x="0.0" y="118.0" />
+    </edge>
+    <edge source="com.company.task26.Main" target="com.company.task26.OnlineWallet" relationship="CREATE">
+      <point x="37.25" y="-39.0" />
+      <point x="1100.3285005224652" y="7276.318181818178" />
+      <point x="1171.8285005224652" y="7276.318181818178" />
+      <point x="1171.8285005224652" y="7266.318181818178" />
+      <point x="1270.31987983281" y="7266.318181818178" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="com.company.task6.Planet" target="com.company.task6.Nameable" relationship="REALIZATION">
+      <point x="0.0" y="-95.0" />
+      <point x="312.70610928772953" y="4080.296539413831" />
+      <point x="203.70610928772953" y="4080.296539413831" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="com.company.task28.Car" target="com.company.task28.Car.Engine" relationship="CREATE">
+      <point x="-63.66666666666674" y="50.0" />
+      <point x="2600.9786895896023" y="7105.499999999999" />
+      <point x="2615.645356256269" y="7105.499999999999" />
+      <point x="-49.0" y="-27.0" />
+    </edge>
+    <edge source="com.company.task8.Main" target="com.company.task8.Panel" relationship="CREATE">
+      <point x="0.0" y="-39.0" />
+      <point x="0.0" y="61.0" />
+    </edge>
+    <edge source="com.company.task25.ShapeDecorator" target="com.company.task25.Shape" relationship="REALIZATION">
+      <point x="44.0" y="-39.0" />
+      <point x="203.34090909090924" y="7046.136363636361" />
+      <point x="326.34090909090924" y="7046.136363636361" />
+      <point x="326.34090909090924" y="7036.136363636361" />
+      <point x="190.67424242424318" y="7036.136363636361" />
+      <point x="36.333333333333485" y="27.0" />
+    </edge>
+    <edge source="com.company.task30.RegexTest" target="com.company.task24.Regex" relationship="CREATE">
+      <point x="33.5" y="-83.0" />
+      <point x="4197.229717626267" y="6382.772727272727" />
+      <point x="4201.729717626267" y="6382.772727272727" />
+      <point x="38.0" y="50.0" />
+    </edge>
+    <edge source="com.company.task3.HumanTest" target="com.company.task3.Human.Head" relationship="DEPENDENCY">
+      <point x="-37.25" y="-39.0" />
+      <point x="2041.4141778375633" y="3625.2911268497724" />
+      <point x="2012.6928236708968" y="3625.2911268497724" />
+      <point x="2012.6928236708968" y="3615.2911268497724" />
+      <point x="1972.6342299208968" y="3615.2911268497724" />
+      <point x="1972.6342299208968" y="3261.2911268497724" />
+      <point x="2106.52615700423" y="3261.2911268497724" />
+      <point x="-61.875" y="74.0" />
+    </edge>
+    <edge source="com.company.task25.Circle" target="com.company.task25.Shape" relationship="REALIZATION">
+      <point x="0.0" y="-39.0" />
+      <point x="459.84090909090924" y="7046.136363636361" />
+      <point x="326.34090909090924" y="7046.136363636361" />
+      <point x="326.34090909090924" y="7036.136363636361" />
+      <point x="190.67424242424318" y="7036.136363636361" />
+      <point x="36.333333333333485" y="27.0" />
+    </edge>
+    <edge source="com.company.task5.Plate" target="com.company.task5.Dish" relationship="GENERALIZATION">
+      <point x="0.0" y="-39.0" />
+      <point x="3751.6895754559696" y="3191.291126849773" />
+      <point x="3825.6895754559696" y="3191.291126849773" />
+      <point x="0.0" y="63.0" />
+    </edge>
+    <edge source="com.company.task6.Animal" target="com.company.task6.Nameable" relationship="REALIZATION">
+      <point x="0.0" y="-95.0" />
+      <point x="94.70610928772953" y="4080.296539413831" />
+      <point x="203.70610928772953" y="4080.296539413831" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="com.company.task28.Car" target="com.company.task28.Car.Engine" relationship="TO_ONE">
+      <point x="0.0" y="50.0" />
+      <point x="0.0" y="-27.0" />
+    </edge>
+    <edge source="com.company.task5.Poodle" target="com.company.task5.Dog" relationship="GENERALIZATION">
+      <point x="0.0" y="-50.0" />
+      <point x="3433.689575455969" y="3319.2911268497733" />
+      <point x="3597.6895754559696" y="3319.2911268497733" />
+      <point x="0.0" y="96.0" />
+    </edge>
+    <edge source="com.company.task19.Main" target="com.company.task19.RightTriangle" relationship="CREATE">
+      <point x="0.0" y="-39.0" />
+      <point x="0.0" y="39.0" />
+    </edge>
+    <edge source="com.company.task22.Client" target="com.company.task22.ChairFactory" relationship="CREATE">
+      <point x="-37.25" y="-50.0" />
+      <point x="2920.020356256269" y="6609.354455888937" />
+      <point x="2828.645356256269" y="6609.354455888937" />
+      <point x="0.0" y="39.0" />
+    </edge>
+    <edge source="com.company.task14.InteractiveGame" target="com.company.task14.Game" relationship="GENERALIZATION">
+      <point x="0.0" y="-128.0" />
+      <point x="3429.645356256269" y="5658.0" />
+      <point x="2855.645356256269" y="5658.0" />
+      <point x="0.0" y="216.0" />
+    </edge>
+    <edge source="com.company.task4.BallTest" target="com.company.task4.Ball" relationship="CREATE">
+      <point x="0.0" y="-39.0" />
+      <point x="0.0" y="118.0" />
+    </edge>
+    <edge source="com.company.task7.MovableRectangle" target="com.company.task7.MovablePoint" relationship="TO_ONE">
+      <point x="-90.66666666666674" y="-72.0" />
+      <point x="1880.4140442890446" y="4588.296539413831" />
+      <point x="1763.522377622378" y="4588.296539413831" />
+      <point x="1763.522377622378" y="4568.296539413831" />
+      <point x="1789.6140442890442" y="4568.296539413831" />
+      <point x="-52.0" y="83.0" />
+    </edge>
+    <edge source="com.company.task7.MovableCircle" target="com.company.task7.MovablePoint" relationship="TO_ONE">
+      <point x="0.0" y="-83.0" />
+      <point x="1710.0807109557113" y="4588.296539413831" />
+      <point x="1763.522377622378" y="4588.296539413831" />
+      <point x="1763.522377622378" y="4568.296539413831" />
+      <point x="1789.6140442890442" y="4568.296539413831" />
+      <point x="-52.0" y="83.0" />
+    </edge>
+    <edge source="com.company.task22.ChairFactory" target="com.company.task22.MultifunctionalChair" relationship="CREATE">
+      <point x="-50.25" y="-39.0" />
+      <point x="2778.395356256269" y="6478.354455888937" />
+      <point x="2713.645356256269" y="6478.354455888937" />
+      <point x="2713.645356256269" y="6468.354455888937" />
+      <point x="2528.145356256269" y="6468.354455888937" />
+      <point x="0.0" y="39.0" />
+    </edge>
+    <edge source="com.company.task26.Main" target="com.company.task26.Payment" relationship="DEPENDENCY">
+      <point x="-37.25" y="-39.0" />
+      <point x="1025.8285005224652" y="7276.318181818178" />
+      <point x="890.6287878787871" y="7276.318181818178" />
+      <point x="890.6287878787871" y="7170.318181818178" />
+      <point x="906.9391327063734" y="7170.318181818178" />
+      <point x="-27.25" y="39.0" />
+    </edge>
+    <edge source="com.company.task25.RedShapeDecorator" target="com.company.task25.Shape" relationship="DEPENDENCY">
+      <point x="-49.0" y="-50.0" />
+      <point x="61.090909090909236" y="7046.136363636361" />
+      <point x="30.61174242424272" y="7046.136363636361" />
+      <point x="30.61174242424272" y="7036.136363636361" />
+      <point x="118.0075757575762" y="7036.136363636361" />
+      <point x="-36.333333333333485" y="27.0" />
+    </edge>
+    <edge source="com.company.task22.Client" target="com.company.task22.Chair" relationship="DEPENDENCY">
+      <point x="37.25" y="-50.0" />
+      <point x="2994.520356256269" y="6609.354455888937" />
+      <point x="3107.3271744380877" y="6609.354455888937" />
+      <point x="3107.3271744380877" y="6599.354455888937" />
+      <point x="3150.645356256269" y="6599.354455888937" />
+      <point x="3150.645356256269" y="6325.354455888937" />
+      <point x="3055.5771744380877" y="6325.354455888937" />
+      <point x="3055.5771744380877" y="6315.354455888937" />
+      <point x="2969.0771744380877" y="6315.354455888937" />
+      <point x="28.5" y="27.0" />
+    </edge>
+    <edge source="com.company.task22.VictorianChair" target="com.company.task22.Chair" relationship="REALIZATION">
+      <point x="0.0" y="-39.0" />
+      <point x="2713.645356256269" y="6325.354455888937" />
+      <point x="2722.0771744380877" y="6325.354455888937" />
+      <point x="2722.0771744380877" y="6315.354455888937" />
+      <point x="2912.0771744380877" y="6315.354455888937" />
+      <point x="-28.5" y="27.0" />
+    </edge>
+    <edge source="com.company.task26.Payment" target="com.company.task26.PayStrategy" relationship="DEPENDENCY">
+      <point x="-27.25" y="-39.0" />
+      <point x="906.9391327063734" y="7041.318181818178" />
+      <point x="896.2121212121205" y="7041.318181818178" />
+      <point x="-43.33333333333337" y="27.0" />
+    </edge>
+    <edge source="com.company.task5.Tub" target="com.company.task5.Furniture" relationship="GENERALIZATION">
+      <point x="0.0" y="-39.0" />
+      <point x="4039.689575455969" y="3191.291126849773" />
+      <point x="4105.689575455969" y="3191.291126849773" />
+      <point x="0.0" y="63.0" />
+    </edge>
+    <edge source="com.company.task25.Rectangle" target="com.company.task25.Shape" relationship="REALIZATION">
+      <point x="0.0" y="-39.0" />
+      <point x="326.34090909090924" y="7036.136363636361" />
+      <point x="190.67424242424318" y="7036.136363636361" />
+      <point x="36.333333333333485" y="27.0" />
+    </edge>
+    <edge source="com.company.task12.First" target="com.company.task12.Student" relationship="CREATE">
+      <point x="0.0" y="-39.0" />
+      <point x="700.3155080213901" y="5394.772727272727" />
+      <point x="784.8155080213901" y="5394.772727272727" />
+      <point x="0.0" y="85.0" />
+    </edge>
+    <edge source="com.company.task26.CreditCard" target="com.company.task26.Payment" relationship="GENERALIZATION">
+      <point x="30.75" y="-27.0" />
+      <point x="1126.753787878787" y="7170.318181818178" />
+      <point x="1103.6891327063734" y="7170.318181818178" />
+      <point x="1103.6891327063734" y="7160.318181818178" />
+      <point x="961.4391327063734" y="7160.318181818178" />
+      <point x="27.25" y="39.0" />
+    </edge>
+    <edge source="com.company.task3.Human.Legs" target="com.company.task3.Human" relationship="INNER_CLASS">
+      <point x="-15.875" y="85.0" />
+      <point x="1986.5261570042298" y="3251.2911268497724" />
+      <point x="2088.6641778375633" y="3251.2911268497724" />
+      <point x="2088.6641778375633" y="3271.2911268497724" />
+      <point x="2076.3178236708964" y="3271.2911268497724" />
+      <point x="-93.33333333333348" y="-151.0" />
+    </edge>
+    <edge source="com.company.task7.ShapeTest" target="com.company.task7.Shape" relationship="DEPENDENCY">
+      <point x="-37.25" y="-39.0" />
+      <point x="1234.9298618048617" y="4778.296539413831" />
+      <point x="1160.5370046620046" y="4778.296539413831" />
+      <point x="1160.5370046620046" y="4258.296539413831" />
+      <point x="1320.1798618048617" y="4258.296539413831" />
+      <point x="-43.0" y="118.0" />
+    </edge>
+    <edge source="com.company.task5.Glass" target="com.company.task5.Dish" relationship="GENERALIZATION">
+      <point x="0.0" y="-39.0" />
+      <point x="3899.6895754559696" y="3191.291126849773" />
+      <point x="3825.6895754559696" y="3191.291126849773" />
+      <point x="0.0" y="63.0" />
+    </edge>
+    <edge source="com.company.task3.Human" target="com.company.task3.Human.Legs" relationship="CREATE">
+      <point x="93.33333333333348" y="-151.0" />
+      <point x="2262.9844903375633" y="3271.2911268497724" />
+      <point x="2272.2227715875633" y="3271.2911268497724" />
+      <point x="2272.2227715875633" y="3231.2911268497724" />
+      <point x="2050.02615700423" y="3231.2911268497724" />
+      <point x="47.625" y="85.0" />
+    </edge>
+    <edge source="com.company.task3.Human" target="com.company.task3.Human.Hands" relationship="CREATE">
+      <point x="93.33333333333348" y="-151.0" />
+      <point x="2262.9844903375633" y="3271.2911268497724" />
+      <point x="2272.2227715875633" y="3271.2911268497724" />
+      <point x="2272.2227715875633" y="3231.2911268497724" />
+      <point x="2352.77615700423" y="3231.2911268497724" />
+      <point x="16.375" y="74.0" />
+    </edge>
+    <edge source="com.company.task3.HumanTest" target="com.company.task3.Human.Legs" relationship="DEPENDENCY">
+      <point x="-37.25" y="-39.0" />
+      <point x="2041.4141778375633" y="3625.2911268497724" />
+      <point x="2012.6928236708968" y="3625.2911268497724" />
+      <point x="2012.6928236708968" y="3615.2911268497724" />
+      <point x="1939.5391778375633" y="3615.2911268497724" />
+      <point x="1939.5391778375633" y="3271.2911268497724" />
+      <point x="1954.7761570042298" y="3271.2911268497724" />
+      <point x="-47.625" y="85.0" />
+    </edge>
+    <edge source="com.company.task25.DecoratorPatternDemo" target="com.company.task25.RedShapeDecorator" relationship="CREATE">
+      <point x="51.75" y="-39.0" />
+      <point x="215.11174242424272" y="7330.136363636361" />
+      <point x="325.86174242424227" y="7330.136363636361" />
+      <point x="325.86174242424227" y="7320.136363636361" />
+      <point x="110.09090909090924" y="7320.136363636361" />
+      <point x="0.0" y="50.0" />
+    </edge>
+    <edge source="com.company.task7.MovableRectangle" target="com.company.task7.Movable" relationship="REALIZATION">
+      <point x="90.66666666666674" y="-72.0" />
+      <point x="2061.747377622378" y="4588.296539413831" />
+      <point x="1991.505710955711" y="4588.296539413831" />
+      <point x="1991.505710955711" y="4355.296539413831" />
+      <point x="1850.9140442890443" y="4355.296539413831" />
+      <point x="0.0" y="60.0" />
+    </edge>
+    <edge source="com.company.task8.Panel" target="com.company.task8.Triangle" relationship="CREATE">
+      <point x="53.333333333333485" y="-61.0" />
+      <point x="2637.8999513183317" y="4374.296539413831" />
+      <point x="2826.3037974721774" y="4374.296539413831" />
+      <point x="2826.3037974721774" y="4364.296539413831" />
+      <point x="2823.86790003628" y="4364.296539413831" />
+      <point x="0.0" y="39.0" />
+    </edge>
+    <edge source="com.company.task7.MovableCircle" target="com.company.task7.MovablePoint" relationship="CREATE">
+      <point x="70.0" y="-83.0" />
+      <point x="1780.0807109557113" y="4578.296539413831" />
+      <point x="1925.1890442890444" y="4578.296539413831" />
+      <point x="1925.1890442890444" y="4568.296539413831" />
+      <point x="1893.6140442890442" y="4568.296539413831" />
+      <point x="52.0" y="83.0" />
+    </edge>
+    <edge source="com.company.task5.Beagle" target="com.company.task5.Dog" relationship="GENERALIZATION">
+      <point x="0.0" y="-50.0" />
+      <point x="3760.6895754559696" y="3319.2911268497733" />
+      <point x="3597.6895754559696" y="3319.2911268497733" />
+      <point x="0.0" y="96.0" />
+    </edge>
+    <edge source="com.company.task3.Human.Head" target="com.company.task3.Human" relationship="INNER_CLASS">
+      <point x="-20.625" y="74.0" />
+      <point x="2147.77615700423" y="3251.2911268497724" />
+      <point x="2088.6641778375633" y="3251.2911268497724" />
+      <point x="2088.6641778375633" y="3271.2911268497724" />
+      <point x="2076.3178236708964" y="3271.2911268497724" />
+      <point x="-93.33333333333348" y="-151.0" />
+    </edge>
+    <edge source="com.company.task2.ShapeTest" target="com.company.task2.Shape" relationship="CREATE">
+      <point x="0.0" y="-39.0" />
+      <point x="0.0" y="107.0" />
+    </edge>
+    <edge source="com.company.task25.DecoratorPatternDemo" target="com.company.task25.Shape" relationship="DEPENDENCY">
+      <point x="-51.75" y="-39.0" />
+      <point x="111.61174242424272" y="7330.136363636361" />
+      <point x="1.5909090909092356" y="7330.136363636361" />
+      <point x="1.5909090909092356" y="7046.136363636361" />
+      <point x="30.61174242424272" y="7046.136363636361" />
+      <point x="30.61174242424272" y="7036.136363636361" />
+      <point x="118.0075757575762" y="7036.136363636361" />
+      <point x="-36.333333333333485" y="27.0" />
+    </edge>
+    <edge source="com.company.task8.Panel" target="com.company.task8.Shape" relationship="DEPENDENCY">
+      <point x="0.0" y="-61.0" />
+      <point x="2584.566617984998" y="4374.296539413831" />
+      <point x="2548.86790003628" y="4374.296539413831" />
+      <point x="2548.86790003628" y="4244.296539413831" />
+      <point x="2584.7332846516647" y="4244.296539413831" />
+      <point x="0.0" y="106.0" />
+    </edge>
+    <edge source="com.company.task22.MultifunctionalChair" target="com.company.task22.Chair" relationship="REALIZATION">
+      <point x="0.0" y="-39.0" />
+      <point x="2528.145356256269" y="6325.354455888937" />
+      <point x="2722.0771744380877" y="6325.354455888937" />
+      <point x="2722.0771744380877" y="6315.354455888937" />
+      <point x="2912.0771744380877" y="6315.354455888937" />
+      <point x="-28.5" y="27.0" />
+    </edge>
+    <edge source="com.company.task14.DoubleList" target="com.company.task14.Game" relationship="GENERALIZATION">
+      <point x="0.0" y="-106.0" />
+      <point x="0.0" y="216.0" />
+    </edge>
+    <edge source="com.company.task8.Panel" target="com.company.task8.Shape" relationship="TO_MANY">
+      <point x="-53.333333333333485" y="-61.0" />
+      <point x="2531.2332846516647" y="4374.296539413831" />
+      <point x="2537.86790003628" y="4374.296539413831" />
+      <point x="2537.86790003628" y="4244.296539413831" />
+      <point x="2531.066617984998" y="4244.296539413831" />
+      <point x="-53.66666666666663" y="106.0" />
+    </edge>
+    <edge source="com.company.task7.MovablePoint" target="com.company.task7.Movable" relationship="REALIZATION">
+      <point x="0.0" y="-83.0" />
+      <point x="1841.6140442890442" y="4355.296539413831" />
+      <point x="1850.9140442890443" y="4355.296539413831" />
+      <point x="0.0" y="60.0" />
+    </edge>
+    <edge source="com.company.task5.Corgi" target="com.company.task5.Dog" relationship="GENERALIZATION">
+      <point x="0.0" y="-50.0" />
+      <point x="0.0" y="96.0" />
+    </edge>
+    <edge source="com.company.task22.Client" target="com.company.task22.ChairType" relationship="DEPENDENCY">
+      <point x="37.25" y="-50.0" />
+      <point x="2994.520356256269" y="6609.354455888937" />
+      <point x="3107.3271744380877" y="6609.354455888937" />
+      <point x="3107.3271744380877" y="6599.354455888937" />
+      <point x="3047.145356256269" y="6599.354455888937" />
+      <point x="0.0" y="50.0" />
+    </edge>
+    <edge source="com.company.task3.Human" target="com.company.task3.Human.Hands" relationship="TO_ONE">
+      <point x="0.0" y="-151.0" />
+      <point x="2169.65115700423" y="3271.2911268497724" />
+      <point x="2174.0391778375633" y="3271.2911268497724" />
+      <point x="2174.0391778375633" y="3241.2911268497724" />
+      <point x="2320.02615700423" y="3241.2911268497724" />
+      <point x="-16.375" y="74.0" />
+    </edge>
+    <edge source="com.company.task7.Circle" target="com.company.task7.Shape" relationship="GENERALIZATION">
+      <point x="0.0" y="-107.0" />
+      <point x="1575.5370046620046" y="4268.296539413831" />
+      <point x="1437.9298618048617" y="4268.296539413831" />
+      <point x="1437.9298618048617" y="4258.296539413831" />
+      <point x="1406.1798618048617" y="4258.296539413831" />
+      <point x="43.0" y="118.0" />
+    </edge>
+    <edge source="com.company.task8.Rectangle" target="com.company.task8.Shape" relationship="GENERALIZATION">
+      <point x="0.0" y="-39.0" />
+      <point x="3019.86790003628" y="4244.296539413831" />
+      <point x="2799.765335933716" y="4244.296539413831" />
+      <point x="2799.765335933716" y="4234.296539413831" />
+      <point x="2638.399951318331" y="4234.296539413831" />
+      <point x="53.66666666666663" y="106.0" />
+    </edge>
+    <edge source="com.company.task4.TestAuthor" target="com.company.task4.Author" relationship="CREATE">
+      <point x="0.0" y="-39.0" />
+      <point x="0.0" y="107.0" />
+    </edge>
+    <edge source="com.company.task7.Rectangle" target="com.company.task7.Shape" relationship="GENERALIZATION">
+      <point x="0.0" y="-129.0" />
+      <point x="1310.0370046620046" y="4268.296539413831" />
+      <point x="1437.9298618048617" y="4268.296539413831" />
+      <point x="1437.9298618048617" y="4258.296539413831" />
+      <point x="1406.1798618048617" y="4258.296539413831" />
+      <point x="43.0" y="118.0" />
+    </edge>
+    <edge source="com.company.task12.Second" target="com.company.task12.Student" relationship="CREATE">
+      <point x="0.0" y="-39.0" />
+      <point x="869.3155080213901" y="5394.772727272727" />
+      <point x="784.8155080213901" y="5394.772727272727" />
+      <point x="0.0" y="85.0" />
+    </edge>
+    <edge source="com.company.task14.StackGame" target="com.company.task14.Game" relationship="GENERALIZATION">
+      <point x="0.0" y="-106.0" />
+      <point x="2568.645356256269" y="5658.0" />
+      <point x="2855.645356256269" y="5658.0" />
+      <point x="0.0" y="216.0" />
+    </edge>
+    <edge source="com.company.task6.TestName" target="com.company.task6.Animal" relationship="CREATE">
+      <point x="0.0" y="-39.0" />
+      <point x="203.70610928772953" y="4320.296539413831" />
+      <point x="94.70610928772953" y="4320.296539413831" />
+      <point x="0.0" y="95.0" />
+    </edge>
+    <edge source="com.company.task3.Human" target="com.company.task3.Human.Head" relationship="CREATE">
+      <point x="93.33333333333348" y="-151.0" />
+      <point x="2262.9844903375633" y="3271.2911268497724" />
+      <point x="2272.2227715875633" y="3271.2911268497724" />
+      <point x="2272.2227715875633" y="3231.2911268497724" />
+      <point x="2230.27615700423" y="3231.2911268497724" />
+      <point x="61.875" y="74.0" />
+    </edge>
+    <edge source="com.company.task8.Circle" target="com.company.task8.Shape" relationship="GENERALIZATION">
+      <point x="0.0" y="-39.0" />
+      <point x="2638.86790003628" y="4244.296539413831" />
+      <point x="2799.765335933716" y="4244.296539413831" />
+      <point x="2799.765335933716" y="4234.296539413831" />
+      <point x="2638.399951318331" y="4234.296539413831" />
+      <point x="53.66666666666663" y="106.0" />
+    </edge>
+    <edge source="com.company.task26.OnlineWallet" target="com.company.task26.Payment" relationship="GENERALIZATION">
+      <point x="-34.5" y="-27.0" />
+      <point x="1235.81987983281" y="7170.318181818178" />
+      <point x="1103.6891327063734" y="7170.318181818178" />
+      <point x="1103.6891327063734" y="7160.318181818178" />
+      <point x="961.4391327063734" y="7160.318181818178" />
+      <point x="27.25" y="39.0" />
+    </edge>
+    <edge source="com.company.task25.ShapeDecorator" target="com.company.task25.Shape" relationship="TO_ONE">
+      <point x="-44.0" y="-39.0" />
+      <point x="115.34090909090924" y="7046.136363636361" />
+      <point x="154.3409090909097" y="7046.136363636361" />
+      <point x="0.0" y="27.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.2500000000000002" showDependencies="true" x="2147.9213012051887" y="5772.999999999985" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
