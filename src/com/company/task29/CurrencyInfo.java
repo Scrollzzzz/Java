@@ -11,7 +11,7 @@ public class CurrencyInfo implements Serializable {
 
     String name;
     int courseD;
-    ArrayList<String> countries = new ArrayList<>();
+    ArrayList<String> countries;
 
     public CurrencyInfo(String name, int courseD, ArrayList<String> countries){
         this.name = name;
@@ -53,7 +53,7 @@ public class CurrencyInfo implements Serializable {
     }
 
     public static void main(String[] args) throws IOException, ClassNotFoundException {
-        CurrencyInfo usdT = new CurrencyInfo("USDT", 1, new ArrayList<String>(Arrays.asList("USA", "Germany", "Australia", "Russia")));
+        CurrencyInfo usdT = new CurrencyInfo("USDT", 1, new ArrayList<>(Arrays.asList("USA", "Germany", "Australia", "Russia")));
         System.out.println(usdT);
 
         FileOutputStream outputStream = new FileOutputStream("src/com/company/task29/save.ser");
