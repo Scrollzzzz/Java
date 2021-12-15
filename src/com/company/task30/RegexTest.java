@@ -17,7 +17,7 @@ public class RegexTest {
     Regex regex = new Regex();
     boolean expected;
     boolean actual;
-    private static StringBuilder builder = new StringBuilder();
+    private static StringBuilder builder = new StringBuilder("# Вывод из task30\n> Ошибка в 3-ем тесте допущена специально\n\n");
 
     @AfterClass
     public static void afterClass() throws IOException {
@@ -28,7 +28,6 @@ public class RegexTest {
 
     @Rule
     public TestWatcher watchman = new TestWatcher() {
-
         @Override
         protected void failed(Throwable e, Description description) {
             if (description != null) {
@@ -37,7 +36,7 @@ public class RegexTest {
             builder.append(" : test failed : ");
             if (e != null) {
                 builder.append(e);
-                builder.append("  ");
+                builder.append("<br/>");
             }
         }
 
@@ -46,7 +45,7 @@ public class RegexTest {
             if (description != null) {
                 builder.append(description);
             }
-            builder.append(" : test passed  ");
+            builder.append(" : test passed<br/>");
         }
     };
 
@@ -66,7 +65,6 @@ public class RegexTest {
 
     @Test
     public void test3() {
-        //Искусственная ошибка
         expected = true;
         actual= regex.isIP("1300.6.7.8");
         Assert.assertEquals(expected, actual);
