@@ -35,7 +35,7 @@ public class RegexTest {
             }
             builder.append(" : test failed : ");
             if (e != null) {
-                builder.append(e);
+                builder.append(e.toString().replace("<", " ").replace(">", ""));
                 builder.append("<br/>");
             }
         }
